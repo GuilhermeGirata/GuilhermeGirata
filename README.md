@@ -11,7 +11,7 @@ Tenho como objetivo evoluir profissionalmente na área de tecnologia, adquirindo
 
 
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGirata&show_icons=true&theme=transparent&line_height=24) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGirata&layout=compact&langs_count=8&theme=transparent)](https://github.com/GuilhermeGirata/github-readme-stats) <img src="https://i.picasion.com/pic92/bb8444f863cf9f0b4963d0fc313a6de1.gif" width="150" height="190" border="0" alt="Minhas fotos"/>
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGirata&show_icons=true&theme=transparent&line_height=24) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGirata&layout=compact&langs_count=8&theme=transparent)](https://github.com/GuilhermeGirata/github-readme-stats)
 </div>
 
 ### Tecnologias que utilizo no meu dia a dia
