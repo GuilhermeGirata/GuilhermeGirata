@@ -1,12 +1,12 @@
 ## Olá! Me chamo Guilherme Girata! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermegirata/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_girata/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/guilherme.girata/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5541996539417) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilherme_girata@hotmail.com?subject=Vi%20seu%20Github!&body=Ol%C3%A1%20Guilherme%2C%20tudo%20bem%3F%0D%0A%0D%0AVi%20seu%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato!) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermegirata/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_girata/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/guilherme.girata/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilherme_girata@hotmail.com?subject=Vi%20seu%20Github!&body=Ol%C3%A1%20Guilherme%2C%20tudo%20bem%3F%0D%0A%0D%0AVi%20seu%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato!) 
 
-Tenho 20 anos, estou cursando o 5° período de Análise e Desenvolvimento de Sistemas na UFPR e atualmente atuo como Desenvolvedor Front-End aprendiz na empresa Rentcars.
+Tenho 20 anos, estou cursando o 5° período de Análise e Desenvolvimento de Sistemas na UFPR e atualmente estou estagiando na empresa Rentcars na integração de novas locadoras ao sistema.
 
 Gosto muito de praticar esportes, tocar taiko (tambores japoneses), descobrir coisas novas, jogar e passar tempo com minha família e amigos.
 
-Tenho como objetivo evoluir profissionalmente na área de tecnologia, adquirindo cada vez mais conhecimento através de novas experiências e aprendizados. Atualmente focado em desenvolver competências em Front-End.
+Tenho como objetivo evoluir profissionalmente na área de tecnologia, adquirindo cada vez mais conhecimento através de novas experiências e aprendizados. Atualmente focado em desenvolver competências em Desenvolvimento WEB.
 
 
 
